@@ -1,8 +1,8 @@
 {
- "tag": "v1.0.136",
- "code": 136,
- "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.136/harugyeol.apk",
- "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
- "notes": "",
- "at": "2026-11-10T03:49:25.511Z"
+  "tag": "v1.0.140",
+  "code": 140,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.140/harugyeol.apk",
+  "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
+  "notes": "앱 새 버전 확인을 latest.json으로 (GitHub API 한도 때문에 새 버전을 못 찾던 문제)",
+  "at": "2026-11-10T03:53:18Z"
 }
