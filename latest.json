@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.151",
-  "code": 151,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.151/harugyeol.apk",
+  "tag": "v1.0.153",
+  "code": 153,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.153/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "달력 칸은 제목만 (시간·아이콘·금액 빼고, 점점점 없이). 마우스를 올리면 시간·금액이 보여요",
-  "at": "2026-11-10T05:19:36Z"
+  "notes": "폰에서 달력·시간표 버튼 줄이 아래로 내려가도 오른쪽에 붙게",
+  "at": "2026-11-10T05:22:30Z"
 }
