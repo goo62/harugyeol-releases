@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.153",
-  "code": 153,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.153/harugyeol.apk",
+  "tag": "v1.0.155",
+  "code": 155,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.155/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "폰에서 달력·시간표 버튼 줄이 아래로 내려가도 오른쪽에 붙게",
-  "at": "2026-11-10T05:22:30Z"
+  "notes": "폰 달력: 버튼 오른쪽 정렬은 되돌리고, 제목·버튼·지출 줄 앞을 조금 띄워 날짜 숫자와 맞춤",
+  "at": "2026-11-10T05:26:33Z"
 }
