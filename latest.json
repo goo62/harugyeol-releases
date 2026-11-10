@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.148",
-  "code": 148,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.148/harugyeol.apk",
+  "tag": "v1.0.151",
+  "code": 151,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.151/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "이메일 초안 → 초안 모음 (쓰는 곳: 일정·정산·지원·기타, 정리하기, 새 초안은 바로 분류) + 일정 창·정산 메시지·지원 카드에서 초안 바로 꺼내기",
-  "at": "2026-11-10T05:13:58Z"
+  "notes": "달력 칸은 제목만 (시간·아이콘·금액 빼고, 점점점 없이). 마우스를 올리면 시간·금액이 보여요",
+  "at": "2026-11-10T05:19:36Z"
 }
