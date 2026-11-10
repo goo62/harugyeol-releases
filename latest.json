@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.144",
-  "code": 144,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.144/harugyeol.apk",
+  "tag": "v1.0.146",
+  "code": 146,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.146/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "시간표 위쪽 버튼 두 줄로 (고르기·목록 / ‹ 이번 주 › 시간표 추가), 설정은 목록 안으로",
-  "at": "2026-11-10T04:51:30Z"
+  "notes": "일정관리 안에 탭: 달력 | 시간표 | 루틴 | 지원 현황 (가계부처럼). 메뉴에서는 일정관리 하나로",
+  "at": "2026-11-10T04:59:54Z"
 }
