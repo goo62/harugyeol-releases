@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.142",
-  "code": 142,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.142/harugyeol.apk",
+  "tag": "v1.0.144",
+  "code": 144,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.144/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "시간표 목록 단순하게 (설명·기본으로·기간 지우기·이어받기 빼고, 이름·기간·보기·복사만)",
-  "at": "2026-11-10T04:50:01Z"
+  "notes": "시간표 위쪽 버튼 두 줄로 (고르기·목록 / ‹ 이번 주 › 시간표 추가), 설정은 목록 안으로",
+  "at": "2026-11-10T04:51:30Z"
 }
