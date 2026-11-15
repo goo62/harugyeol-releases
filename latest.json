@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.158",
-  "code": 158,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.158/harugyeol.apk",
+  "tag": "v1.0.159",
+  "code": 159,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.159/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "Add D-day collection and single-event widgets",
-  "at": "2026-11-15T06:50:06Z"
+  "notes": "Add monthly calendar and refine D-day widgets",
+  "at": "2026-11-15T08:40:20Z"
 }
