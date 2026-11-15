@@ -1,8 +1,8 @@
 {
-  "tag": "v1.0.157",
-  "code": 157,
-  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.157/harugyeol.apk",
+  "tag": "v1.0.158",
+  "code": 158,
+  "apk": "https://github.com/goo62/harugyeol-releases/releases/download/v1.0.158/harugyeol.apk",
   "page": "https://github.com/goo62/harugyeol-releases/releases/latest",
-  "notes": "폰 달력 위쪽 정리: 지출 줄 한 줄(예정·완료·남음), 버튼 줄 양끝 맞춤, 줄 사이 간격",
-  "at": "2026-11-10T05:32:19Z"
+  "notes": "Add D-day collection and single-event widgets",
+  "at": "2026-11-15T06:50:06Z"
 }
